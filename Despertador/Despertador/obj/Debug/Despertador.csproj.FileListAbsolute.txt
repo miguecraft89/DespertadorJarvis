@@ -1,0 +1,15 @@
+C:\Users\MIGUE\source\repos\Despertador\Despertador\bin\Debug\Despertador.exe.config
+C:\Users\MIGUE\source\repos\Despertador\Despertador\bin\Debug\Despertador.exe
+C:\Users\MIGUE\source\repos\Despertador\Despertador\bin\Debug\Despertador.pdb
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\Despertador.csprojAssemblyReference.cache
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\Despertador.Form1.resources
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\Despertador.Properties.Resources.resources
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\Despertador.csproj.GenerateResource.cache
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\Despertador.csproj.CoreCompileInputs.cache
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\Despertador.exe
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\Despertador.pdb
+C:\Users\MIGUE\source\repos\Despertador\Despertador\bin\Debug\Interop.WMPLib.dll
+C:\Users\MIGUE\source\repos\Despertador\Despertador\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\Interop.WMPLib.dll
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MIGUE\source\repos\Despertador\Despertador\obj\Debug\Despertador.csproj.ResolveComReference.cache
